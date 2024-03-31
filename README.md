@@ -13,7 +13,7 @@ Para jogar basta utilizar os seguintes comandos:
 
 * **` D `** = ANDAR DIREITA
 
-* **` ___ `** = ATIRAR (quando equipado)
+* **` __`** = ATIRAR 
 
 
 ### 👾 Confira o jogo!
