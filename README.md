@@ -52,5 +52,7 @@ Para jogar basta utilizar os seguintes comandos:
 Nesse projeto, os dados coletados dentro do jogo como: **`SCORE`** e **`APELIDO`** , são armazenados em um banco de dados, com base em PHP
 
 * A seguir um exemplo do funcionamento do banco:
-  
-<img src="media/VIDEOBANCO.mp4">
+
+https://github.com/henriqueflorentino/jogo_integradoaoBD/assets/94813609/5f57629a-865c-47bf-9bff-182316edba63
+
+
