@@ -8,7 +8,9 @@
 Para jogar basta utilizar os seguintes comandos:
 
 **` W `** = PULAR.
-**` A `** = ANDAR ESUQERDA.
+
+**` A `** = ANDAR ESQUERDA.
+
 **` D `** = ANDAR DIREITA.
 
 
