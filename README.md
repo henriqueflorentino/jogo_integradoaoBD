@@ -31,3 +31,6 @@ Para jogar basta utilizar os seguintes comandos:
 
 * Jogador
   <img src="images/avatar direita.png">
+
+* Ratos
+  <img src="images/ratos.png">
