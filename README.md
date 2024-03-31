@@ -26,3 +26,8 @@ Para jogar basta utilizar os seguintes comandos:
 
 
 # 🔎 Conheçendo o game
+
+### 🃏 Personagens:
+
+* Jogador
+  <img src="images/">
