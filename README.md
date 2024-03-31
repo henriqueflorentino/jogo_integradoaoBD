@@ -48,7 +48,7 @@ Para jogar basta utilizar os seguintes comandos:
 > Os Zumbis são os seus principais inimigos! Eles não param de spawnar no park, então você deve elimina-los. A cada Zumbi eliminado você recebe 10 pontos ao seu **`SCORE`**;
 
 
-## 🧩 Elementos:
+# 🧩 Elementos:
 > A seguir uma breve explicação sobre os elementos presente no jogo, onde aborda suas funcionalidades e o visual de cada um.
 
 * ## POWERUP
