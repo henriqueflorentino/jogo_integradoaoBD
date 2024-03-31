@@ -74,6 +74,14 @@ Para jogar basta utilizar os seguintes comandos:
 > É graças a esse objeto não identificado que o zumbis estão spawnando! Não é possível destrui-lo e cuidado para não relar nele!;
 
 
+# 🎬 Gameplay do jogo:
+
+
+https://github.com/henriqueflorentino/jogo_integradoaoBD/assets/94813609/19ebf1ac-1cc0-4985-9d28-06fc7818b9e0
+> Nesse vídeo podemos ver a gameplay do jogo com todas as funcionalidades em funcionamento!
+
+
+
 
 # 🎲 Conexão com Banco de Dados:
 
@@ -86,8 +94,3 @@ https://github.com/henriqueflorentino/jogo_integradoaoBD/assets/94813609/af1c5a2
 > Nesse vídeo podemos ver que a conexão do jogo com o banco de dados está funcionando! Aqui é mostrado também registros antigos de outros jogadores.
 
 
-# 🎬 Gameplay do jogo:
-
-
-https://github.com/henriqueflorentino/jogo_integradoaoBD/assets/94813609/19ebf1ac-1cc0-4985-9d28-06fc7818b9e0
-> Nesse vídeo podemos ver a gameplay do jogo com todas as funcionalidades em funcionamento!
