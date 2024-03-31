@@ -1,2 +1,2 @@
 # O Jogo do Park (Baseado em South Park)
-# <img src="avatar abertura.png">
+# <img src="images/avatar abertura.png">
