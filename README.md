@@ -7,9 +7,9 @@
 
 Para jogar basta utilizar os seguintes comandos:
 
-** W **= PULAR
-** A **= ANDAR ESUQERDA
-** D **= ANDAR DIREITA
+** W ** = PULAR
+** A ** = ANDAR ESUQERDA
+** D ** = ANDAR DIREITA
 
 
 ### 👾 Confira o jogo!
