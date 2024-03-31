@@ -29,11 +29,13 @@ Para jogar basta utilizar os seguintes comandos:
 
 ### 🃏 Personagens:
 
-* Jogador
+# * Jogador
 <img src="images/avatar direita.png">
+
 >fdfdfd
 
 
-* Ratos
+# * Ratos
 <img src="images/ratos.png">
+
 >dsfsfs
