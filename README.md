@@ -30,4 +30,4 @@ Para jogar basta utilizar os seguintes comandos:
 ### 🃏 Personagens:
 
 * Jogador
-  <img src="images/">
+  <img src="images/avatar direita.png">
