@@ -29,19 +29,19 @@ Para jogar basta utilizar os seguintes comandos:
 
 # 🃏 Personagens:
 
-## JOGADOR
+* ## JOGADOR
 <img src="images/avatar direita.png">
 
 > O jogador é o responsável por protagonizar a aventura do game! Seu design foi feito de forma original especificamente para o jogo;
 
 
-## RATOS
+* ## RATOS
 <img src="images/ratos.png">
 
 > Os Ratos são os primeiros inimigos que você vai avistar, eles são muito rápidos então tome cuidado! Eles não podem ser destruidos inicialmente no jogo, e possuem também a mêcanica de empurrar qualquer personagem;
 
 
-## ZUMBIS
+* ## ZUMBIS
 <img src="images/zombie.png">
 
 > Os Zumbis são os seus principais inimigos! Eles não param de spawnar no park, então você deve elimina-los. A cada Zumbi eliminado você recebe 10 pontos ao seu **`SCORE`**;
