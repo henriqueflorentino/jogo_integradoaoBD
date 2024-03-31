@@ -13,7 +13,7 @@ Para jogar basta utilizar os seguintes comandos:
 
 * **` D `** = ANDAR DIREITA
 
-* **`__`** = ATIRAR 
+* **`ESPAÇO`** = ATIRAR 
 
 
 ### 👾 Confira o jogo!
