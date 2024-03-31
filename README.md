@@ -23,3 +23,6 @@ Para jogar basta utilizar os seguintes comandos:
 > Somente para dispostivos Desktop
 
 [O Jogo do Park || Clique para jogar!](https://ojogodopark.netlify.app/)
+
+
+# 🔎 Conheçendo o game
