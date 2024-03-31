@@ -45,3 +45,12 @@ Para jogar basta utilizar os seguintes comandos:
 <img src="images/zombie.png">
 
 > Os Zumbis são os seus principais inimigos! Eles não param de spawnar no park, então você deve elimina-los. A cada Zumbi eliminado você recebe 10 pontos ao seu **`SCORE`**;
+
+
+# 🎲 Conexão com Banco de Dados:
+
+Nesse projeto, os dados coletados dentro do jogo como: **`SCORE`** e **`APELIDO`** , são armazenados em um banco de dados, com base em PHP
+
+* A seguir um exemplo do funcionamento do banco:
+  
+<img src="media/VIDEOBANCO.mp4">
