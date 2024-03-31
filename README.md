@@ -7,11 +7,11 @@
 
 Para jogar basta utilizar os seguintes comandos:
 
-**` W `** = PULAR.
+* **` W `** = PULAR
 
-**` A `** = ANDAR ESQUERDA.
+* **` A `** = ANDAR ESQUERDA
 
-**` D `** = ANDAR DIREITA.
+* **` D `** = ANDAR DIREITA
 
 
 ### 👾 Confira o jogo!
