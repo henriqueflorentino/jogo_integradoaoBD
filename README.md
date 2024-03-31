@@ -29,7 +29,7 @@ Para jogar basta utilizar os seguintes comandos:
 
 # 🃏 Personagens:
 
-### JOGADOR
+## JOGADOR
 <img src="images/avatar direita.png">
 
 >fdfdfd
