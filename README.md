@@ -48,6 +48,33 @@ Para jogar basta utilizar os seguintes comandos:
 > Os Zumbis são os seus principais inimigos! Eles não param de spawnar no park, então você deve elimina-los. A cada Zumbi eliminado você recebe 10 pontos ao seu **`SCORE`**;
 
 
+## 🧩 Elementos:
+> A seguir uma breve explicação sobre os elementos presente no jogo, onde aborda suas funcionalidades e o visual de cada um.
+
+* ## POWERUP
+<img src="images/powerup.png">
+
+> É encostando aqui que o jogador vai receber sua incrível arma de batalha.....uma pedra, simples mas bem eficaz!
+
+
+* ## PEDRA
+<img src="images/pedra.png">
+
+> Se equipe e conheça a sua principal arma de batalha! Capaz de eliminar desde ratos até zumbis :O
+
+
+* ## BANCO
+<img src="images/banco.png">
+
+> Um simples banco para você acessar a parte superior do mapa, porém o jogador ao encostar no banco acaba ativando um recurso muito interessante...jogue agora mesmo para descobrir!;
+
+* ## SPAWN
+<img src="images/spawn.png">
+
+> É graças a esse objeto não identificado que o zumbis estão spawnando! Não é possível destrui-lo e cuidado para não relar nele!;
+
+
+
 # 🎲 Conexão com Banco de Dados:
 
 Nesse projeto, os dados coletados dentro do jogo como: **`SCORE`** e **`APELIDO`** , são armazenados em um banco de dados, com base em PHP
