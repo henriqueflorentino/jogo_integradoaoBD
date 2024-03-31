@@ -17,7 +17,7 @@ Para jogar basta utilizar os seguintes comandos:
 
 ### ⚙️ Mecânica:
 
->A cada inimigo que o jogador derrota, ele recebe 10 pontos que ficam registrados no seu **`SCORE`**, quando a rodada termina o jogador insere o seu apelido que logo em seguida é enviado para um Banco de Dados Relacional, onde é possivel vizualizar a pontuação de cada jogador em cada rodada
+>A cada inimigo que o jogador derrota, ele recebe 10 pontos que ficam registrados no seu **`SCORE`**, quanto mais pontos o jogador vai fazendo mais a dificuldade do jogo aumenta. Por fim, quando a rodada termina o jogador insere o seu apelido que logo em seguida é enviado para um Banco de Dados Relacional, onde é possivel vizualizar a pontuação de cada jogador em cada rodada.
 
 ### 👾 Confira o jogo!
 > Somente para dispostivos Desktop
