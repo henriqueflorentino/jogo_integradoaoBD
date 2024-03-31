@@ -71,7 +71,7 @@ Para jogar basta utilizar os seguintes comandos:
 * ## SPAWN
 <img src="images/spawn.png">
 
-> É graças a esse objeto não identificado que o zumbis estão spawnando! Não é possível destrui-lo e cuidado para não relar nele!;
+> É graças a esse objeto não identificado que o zumbis estão spawnando! Não é possível destrui-lo e cuidado para não encostar nele!;
 
 
 # 🎬 Gameplay do jogo:
