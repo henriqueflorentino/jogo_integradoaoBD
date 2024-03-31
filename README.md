@@ -58,7 +58,7 @@ Para jogar basta utilizar os seguintes comandos:
 
 
 * ## PEDRA
-<img src="images/pedra.png">
+<img src="images/pedraa.png">
 
 > Se equipe e conheça a sua principal arma de batalha! Capaz de eliminar desde ratos até zumbis :O
 
