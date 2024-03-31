@@ -27,21 +27,21 @@ Para jogar basta utilizar os seguintes comandos:
 
 # 🔎 Conheçendo o game
 
-### 🃏 Personagens:
+# 🃏 Personagens:
 
-# JOGADOR
+### JOGADOR
 <img src="images/avatar direita.png">
 
 >fdfdfd
 
 
-# RATOS
+### RATOS
 <img src="images/ratos.png">
 
 >dsfsfs
 
 
-# ZUMBIS
-<img src="images/zombies.png">
+### ZUMBIS
+<img src="images/zombie.png">
 
 >dsfsfs
