@@ -55,7 +55,7 @@ Nesse projeto, os dados coletados dentro do jogo como: **`SCORE`** e **`APELIDO`
 
 
 https://github.com/henriqueflorentino/jogo_integradoaoBD/assets/94813609/af1c5a29-e639-444b-bfbb-bf7a86ce236c
-> Nesse vídeo podemos ver que a conexão do jogo com o banco de dados está funcionando! Mostrando também outros registro antigos de outros jogadores
+> Nesse vídeo podemos ver que a conexão do jogo com o banco de dados está funcionando! Aqui é mostrado também registros antigos de outros jogadores.
 
 
 
