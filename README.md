@@ -28,6 +28,7 @@ Para jogar basta utilizar os seguintes comandos:
 # 🔎 Conheçendo o game
 
 ### 🕹️ Personagens:
+> A seguir uma breve explicação sobre os personagens do jogo, onde aborda algumas curiodidades e o visual de cada um.
 
 * ## JOGADOR
 <img src="images/avatar direita.png">
