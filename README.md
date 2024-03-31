@@ -53,6 +53,9 @@ Nesse projeto, os dados coletados dentro do jogo como: **`SCORE`** e **`APELIDO`
 
 * A seguir um exemplo do funcionamento do banco:
 
-https://github.com/henriqueflorentino/jogo_integradoaoBD/assets/94813609/5f57629a-865c-47bf-9bff-182316edba63
+
+https://github.com/henriqueflorentino/jogo_integradoaoBD/assets/94813609/af1c5a29-e639-444b-bfbb-bf7a86ce236c
+
+
 
 
